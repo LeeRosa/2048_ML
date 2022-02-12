@@ -15,7 +15,7 @@
 - Q-learning을 통해 2048 게임을 학습 시킨다.
 
 ## Software Architecture
-<img src="https://user-images.githubusercontent.com/53519801/153714688-042647b5-8a82-4e21-88df-5990a81bcfd3.png" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/53519801/153714688-042647b5-8a82-4e21-88df-5990a81bcfd3.png" width="250" height="400">
 
 ## System Architecture
 <img src="https://user-images.githubusercontent.com/53519801/153714730-e5b65f10-4014-4c72-a090-d210c969a2fb.png" width="400" height="350">
